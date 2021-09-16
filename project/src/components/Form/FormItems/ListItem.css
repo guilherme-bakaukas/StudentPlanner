@@ -1,0 +1,12 @@
+.item{
+    box-shadow: 0px 0px 15px #0004;
+    margin-top: 3px;
+    background-color: rgb(187, 206, 235);
+    border-radius: 5px;  
+}
+
+.delButton{
+    margin: 5px;
+    max-height: 30px;
+    font-size: small;
+}

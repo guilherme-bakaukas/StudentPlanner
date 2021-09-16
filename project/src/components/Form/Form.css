@@ -1,0 +1,19 @@
+.container{
+    margin-top:20px;
+}
+
+.forms {
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px #0004;
+    background-color: rgb(191, 221, 245);
+    margin: 90px, 30px;
+    padding: 40px;
+}
+
+.box {
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px #0004;
+    background-color: rgb(222, 230, 236);
+    margin-top: 5px;
+    margin-left: 10px;
+}
