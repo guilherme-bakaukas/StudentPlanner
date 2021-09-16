@@ -1,4 +1,4 @@
-# Porjeto Final da disciplina de Engenharia de Software
+# Projeto Final da disciplina de Engenharia de Software - UNICAMP
 
 ## Ideia geral do projeto
 
